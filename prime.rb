@@ -1,5 +1,5 @@
 #what's a prime number?
-# n % 2 == 0 
+# n % 2 == 0 #by 1 or itself with R = 0
 # returns boolean
 def prime?(n)
   if n == 2
