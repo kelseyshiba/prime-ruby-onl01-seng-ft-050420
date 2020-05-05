@@ -10,3 +10,7 @@ def prime?(n)
     false
   end
 end
+
+def prime?(n)
+
+end
