@@ -3,6 +3,11 @@
 # returns boolean
 def prime?(n)
   if n % 2 == 0
+    return true 
+  elsif 
+    n.odd? == true
+    return true
   else
+    false
   end
 end
